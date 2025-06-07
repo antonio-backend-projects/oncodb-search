@@ -1,0 +1,24 @@
+# Base
+python-dotenv
+requests
+tqdm
+
+# Parsing e salvataggio
+lxml
+beautifulsoup4
+
+# Machine learning / embeddings
+sentence-transformers
+
+# Qdrant client
+qdrant-client
+
+# LangChain per query intelligenti
+langchain
+openai
+
+# Opzionale: logging avanzato
+loguru
+
+# Se usi Jupyter Notebook (per test)
+ipykernel
