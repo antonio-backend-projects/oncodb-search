@@ -99,6 +99,10 @@ Ottieni la API key NCBI (usata per PubMed e altri database NCBI) seguendo questi
 
 6. Otterrai una chiave alfanumerica che puoi usare nel tuo script come parametro `api_key`.
 
+7. Aggiungi la API al file .env
+    ```python
+        NCBI_API_KEY=8a04cec18c5ec99d2fb6d6f8d23b52fca809
+    ```
 ---
 
 ### Perché serve la API key?
