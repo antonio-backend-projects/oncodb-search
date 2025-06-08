@@ -1,3 +1,4 @@
+```bash
                    +-------------+
 User (Italian) --> | Traduttore  | --> 
                    +-------------+ 
@@ -22,7 +23,7 @@ User (Italian) --> | Traduttore  | -->
                      |  Output  |
                      +---------+
 
-
+```
 
 
 copiare a mano il tool per riassunti:
