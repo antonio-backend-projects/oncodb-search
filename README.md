@@ -1,4 +1,4 @@
-![Search scripts](/images/flowchart-search.png)
+![Search scripts](/images/flowchart-9-06-2025.png)
 
 ```bash
                    +-------------+
