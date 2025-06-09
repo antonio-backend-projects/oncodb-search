@@ -1,3 +1,5 @@
+![Search scripts](/images/flowchart-search.png)
+
 ```bash
                    +-------------+
 User (Italian) --> | Traduttore  | --> 
